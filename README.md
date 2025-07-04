@@ -130,9 +130,9 @@ Responsive: Uses Tailwind CSS and media queries for seamless mobile and desktop 
 
 # 📬 Contact Me
 
-# 📧 Email: suruswork395@example.com
-# 🔗 LinkedIn: www.linkedin.com/in/suryansh-singh-5857a0263
-# 🐙 GitHub: [github.com/CodingSuru]
+📧 Email: suruswork395@example.com
+🔗 LinkedIn: www.linkedin.com/in/suryansh-singh-5857a0263
+🐙 GitHub: [github.com/CodingSuru]
 
 🙌 Contributing
 This is a personal portfolio, but feel free to fork and suggest improvements via pull requests!
