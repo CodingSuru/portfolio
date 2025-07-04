@@ -106,7 +106,7 @@ Animated form with Anime.js effects (e.g., slide-in fields).
 
 # 🚀 Setup and Deployment
 
-Clone the Repository:git clone https://github.com/suryanshsingh/portfolio.git
+Clone the Repository:git clone https://github.com/CodingSuru/portfolio.git
 
 
 Install Dependencies:cd portfolio
