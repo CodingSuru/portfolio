@@ -51,13 +51,13 @@ portfolio/
 └── README.md                # This file
 
 # 🌟 Key Features
-# 🏠 Homepage
+🏠 Homepage
 
 Cinematic intro with Anime.js animations (e.g., fading text, sliding images).
 Brief bio: "Machine Learning Engineer specializing in NLP, computer vision, and AI solutions."
 Animated background or scrolling effects for a dynamic feel.
 
-# 🛠️ Skills Section
+🛠️ Skills Section
 
 Displays skills in categories: Programming (Python, Java, Kotlin), ML Frameworks (PyTorch, TensorFlow), NLP (Hugging Face, NER), Computer Vision (OpenCV, YOLO), Tools (Git, Flask), and Soft Skills.
 Animated list with Anime.js (e.g., staggered fade-in for each skill).
